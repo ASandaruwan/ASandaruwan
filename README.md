@@ -6,7 +6,6 @@
 
 I design, develop, and ship reliable web applications across the frontend, backend, and containerized environments. I enjoy turning ideas into practical digital solutions, exploring modern web architectures, and continuously improving how software is built and delivered.
 
-[![GitHub](https://img.shields.io/badge/GitHub-ASandaruwan-181717?style=for-the-badge&logo=github)](https://github.com/ASandaruwan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://achira-sandaruwan.vercel.app/)
 
 </div>
